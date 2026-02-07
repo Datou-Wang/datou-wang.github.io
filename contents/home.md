@@ -2,16 +2,20 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am Qile Wang, a Ph.D. candidate at the Ocean College, Zhejiang University. Currently, I am a visiting Ph.D.  at the Instituto Dom Luiz (IDL), Lisbon University.My research focuses on marine environmental sensing based on fiber-optic distributed acoustic sensing (DAS).Specifically, my work involves submarine cable routing and fault detection, joint observation of hydroacoustic and geoacoustic wavefields, and the monitoring and application of whale vocalizations.\
+
+In my spare time, I usually enjoy long-distance running and cooking gourmet food.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 12334102[at]zju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Visiting Ph.D., Instituto Dom Luiz (IDL), Lisbon University, 2026—Present.\
+Ph.D., Ocean technology and Engineering, Zhejiang University, 2023—Present.\
+M.S.,  Marine science, Zhejiang Ocean University, 2020—2023.\
+B.E., Electronic information, Henan Agricultural University, 2014—2018.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Distributed acoustic sensing (DAS); Wavefield modeling and analysis; Whale seismology
 
