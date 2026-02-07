@@ -1,12 +1,4 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+* Outstanding Graduate Student of Zhejiang University, 2025.
+* Outstanding Graduate Student of Zhejiang University, 2024.
+* Outstanding Graduates of Zhejiang Province, 2023.
+* Graduate Scholarship of Zhejiang Ocean University, 2023.
