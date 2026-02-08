@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Qile Wang](https://img.shields.io/badge/senli1073-github-blue?logo=Researchgate)](https://github.com/senli1073)
 
 I am Qile Wang, a Ph.D. candidate at the Ocean College, Zhejiang University. Currently, I am a visiting Ph.D.  at the Instituto Dom Luiz (IDL), Lisbon University. My research focuses on marine environmental sensing based on fiber-optic distributed acoustic sensing (DAS). Specifically, my work involves submarine cable routing and fault detection, joint observation of hydroacoustic and geoacoustic wavefields, and the monitoring and application of whale vocalizations.
 
@@ -19,9 +19,3 @@ Distributed acoustic sensing (DAS); Wavefield modeling and analysis; Whale seism
 #### Contact
 
 Email: 12334102@zju.edu.cn
-
-#### Social Media
-
-[[Researchgate]](https://www.researchgate.net/profile/Qile-Wang-4?ev=hdr_xprf9), [[Google Scholar]](https://scholar.google.com/citations?user=YVeEmkcAAAAJ&hl=en)
-
-
