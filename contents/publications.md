@@ -1,6 +1,8 @@
 #### Submitted
 
-- <strong>Qile Wang</strong>, Tao Zhang, Jianmin Lin*. Wavefield features of fin whale vocalization observed by distributed acoustic sensing. <strong><em>The Journal of the Acoustical Society of America</em></strong>.Under Review
+- <strong>Qile Wang</strong>, Jianmin Lin*. Enhancing 3D Whale Localization with Distributed Acoustic Sensing via numerical model. <strong><em>The Journal of the Acoustical Society of America</em></strong>. In Prepare
+
+- <strong>Qile Wang</strong>, Tao Zhang, Jianmin Lin*. Wavefield features of fin whale vocalization observed by distributed acoustic sensing. <strong><em>The Journal of the Acoustical Society of America</em></strong>. Under Review
 
 #### Published
 
