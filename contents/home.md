@@ -17,5 +17,9 @@ Distributed acoustic sensing (DAS); Wavefield modeling and analysis; Whale seism
 
 #### Contact
 
-Email: 12334102@zju.edu.cn; \[Researchgate](https://www.researchgate.net/profile/Qile-Wang-4?ev=hdr\_xprf); \[Google Scholar](https://scholar.google.com/citations?user=YVeEmkcAAAAJ\&hl=en).
+Email: <a href="mailto:12334102@zju.edu.cn">12334102@zju.edu.cn</a>; 
+
+<a href="https://www.researchgate.net/profile/Qile-Wang-4?ev=hdr\_xprf">ResearchGate</a>; 
+
+<a href="https://scholar.google.com/citations?user=YVeEmkcAAAAJ\&hl=en">Google Scholar</a>.
 
