@@ -6,9 +6,6 @@ I am Qile Wang, a Ph.D. candidate at the Ocean College, Zhejiang University. Cur
 
 In my spare time, I usually enjoy long-distance running and cooking gourmet food.
 
-#### Contact
-
-Email: 12334102@zju.edu.cn
 
 #### Education
 Visiting Ph.D., Instituto Dom Luiz (IDL), Lisbon University, 2026—Present.\
@@ -18,4 +15,13 @@ B.E., Electronic information, Henan Agricultural University, 2014—2018.
 
 #### Research Interests
 Distributed acoustic sensing (DAS); Wavefield modeling and analysis; Whale seismology
+
+#### Contact
+
+Email: 12334102@zju.edu.cn
+
+#### Social Media
+
+[[Researchgate]](https://www.researchgate.net/profile/Qile-Wang-4?ev=hdr_xprf9), [[Google Scholar]](https://scholar.google.com/citations?user=YVeEmkcAAAAJ&hl=en)
+
 
