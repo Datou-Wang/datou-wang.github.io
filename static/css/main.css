@@ -113,4 +113,7 @@ section .main-body{
     }
 }
 
+strong {
+    font-weight: 600;
+}
 
