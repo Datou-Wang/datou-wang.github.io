@@ -11,4 +11,6 @@
 
 - Jiangzheng Shu, <strong>Qile Wang</strong>, Wentao Zhang, et al (2025). Passive acoustic localization of submarine cable breakdowns using MUSIC algorithm combined with deep learning. <strong><em> Marine Geophysical Research</em></strong>. [[Paper]](https://doi.org/10.1007/s11001-025-09567-6)
 
+#### Conference
 
+- <strong>Qile Wang</strong>. Revealing the Wavefield Features of Fin Whale Vocalizations Observed by Distributed Acoustic Sensing. No. EGU26-4625. Copernicus Meetings, 2026.
