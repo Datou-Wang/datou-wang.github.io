@@ -13,7 +13,7 @@ In my spare time, I usually enjoy long-distance running and cooking Chinese food
 
 #### Research Interests
 
-Distributed acoustic sensing (DAS); Wavefield modeling and analysis; Whale seismology
+Distributed acoustic sensing (DAS); Wavefield modeling; Underwater acoustic localization; Bioacoustics; Whale seismology
 
 #### Contact
 
