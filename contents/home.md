@@ -6,10 +6,10 @@ In my spare time, I usually enjoy long-distance running and cooking Chinese food
 
 #### Education
 
-2026—Present, Visiting Ph.D., Geophysics, Instituto Dom Luiz (IDL), University of Lisbon  (Supervisor: Afonso Loureiro)
-2023—Present, Ph.D., Ocean sensing, Zhejiang University (Supervisor: Jianmin Lin)
-2020—2023, M.S.,  Marine science, Zhejiang Ocean University
-2014—2018, B.E., Electronic information, Henan Agricultural University
+2026—Present, Visiting Ph.D., Geophysics, Instituto Dom Luiz (IDL), University of Lisbon  (Supervisor: Afonso Loureiro).
+2023—Present, Ph.D., Ocean sensing, Zhejiang University (Supervisor: Jianmin Lin).
+2020—2023, M.S.,  Marine science, Zhejiang Ocean University.
+2014—2018, B.E., Electronic information, Henan Agricultural University.
 
 #### Research Interests
 
