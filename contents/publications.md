@@ -1,11 +1,12 @@
 #### Submitted
 
-- <strong>Qile Wang</strong>, Afonso Loureiro, Andreia Pereira, Jianmin Lin*. Enhancing 3D Whale Localization with Distributed Acoustic Sensing via numerical model. <strong><em>The Journal of the Acoustical Society of America</em></strong>. Under review
+- <strong>Qile Wang</strong>, Jianmin Lin*, Afonso Loureiro, Andreia Pereira. Enhancing 3D Whale Localization with Distributed Acoustic Sensing via numerical model. <strong><em>The Journal of the Acoustical Society of America</em></strong>. Under review
 
 
 #### Published
 
-- <strong>Qile Wang</strong>, Tao Zhang, Jianmin Lin*. Wavefield features of fin whale vocalization observed by distributed acoustic sensing. <strong><em>The Journal of the Acoustical Society of America</em></strong>. Accept
+- <strong>Qile Wang</strong>, Tao Zhang, Jianmin Lin*. Wavefield features of fin whale vocalization observed by distributed acoustic sensing. <strong><em>The Journal of the Acoustical Society of America</em></strong>.  [[Paper]]
+(https://doi.org/10.1121/10.0044234)
 
 - Jianmin Lin*, <strong>Qile Wang</strong>, Wentao Zhang, et al (2025). Estimation of Submarine Cable Location Using Optical-Fiber Distributed Acoustic Sensing Combined With Ship-Borne Sound Sources. <strong><em>Journal of Lightwave Technology</em></strong>. [[Paper]](https://doi.org/10.1109/JLT.2025.3588069)
 
